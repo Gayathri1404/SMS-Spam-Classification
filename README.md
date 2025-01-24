@@ -48,4 +48,4 @@ Exploring deep learning techniques like RNNs or Transformers for further accurac
 # 📬 Connect with Me
 Feel free to reach out if you have any questions or suggestions!
 
-LinkedIn
+www.linkedin.com/in/gayathri-k-681b86249
